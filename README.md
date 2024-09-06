@@ -2,7 +2,7 @@
 
 ✨ Welcome to my Repository ✨
 
-I am **Habib Ur Rehamn**, a *SAP Technical Consultant* at <a href="https://tallymarksconsulting.com/"> <b>TallyMarks Consulting</b></a>, and a graduate of Computer Sciences from <a href="https://www.bahria.edu.pk/"> <b>Bahria University</b></a>.
+I am **Habib Ur Rehman**, a *SAP Technical Consultant* at <a href="https://tallymarksconsulting.com/"> <b>TallyMarks Consulting</b></a>, and a graduate of Computer Sciences from <a href="https://www.bahria.edu.pk/"> <b>Bahria University</b></a>.
 
 ## About Me
 I’m a researcher, programmer, and chatbot developer with a passion for creating engaging conversational experiences using Dialogflow.
